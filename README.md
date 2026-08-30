@@ -1,3 +1,3 @@
-# myrepo
-testing me setup
-this is a firest markdown file
+# Folium maps
+
+This repo is set up specifically to test html Folium maps
